@@ -1,0 +1,119 @@
+.App {
+  text-align: center;
+  padding-top: 50px;
+}
+
+body {
+  background: url("./img/halloween.png");
+  background-size: cover;
+  resize: both;
+}
+
+#head {
+ font-size: 25px;
+ padding: 15px;
+ font-weight: bold;
+ color: #671959;
+}
+
+/* Square */
+.square {
+  float: left;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  width: 125px;
+  line-height: 40px;
+  height: 125px;
+  display: inline-block;
+  color: #671959;
+  font-weight: bold;
+  background-color: #F9EBBC;
+  margin: 10px;
+  border: 3px solid #521447;
+  border-radius: 20px;
+  text-shadow: 2px 2px 8px #f0829e;
+  box-shadow: 0px 6px 0px #800800;
+}
+
+.square:hover {
+  background: #EF9616;
+}
+
+.square:focus {
+   outline: none;
+ }
+
+.square:active {
+  border: 10px solid #671959;
+}
+
+.square--winning {
+  background-color: #EF9616;
+}
+
+ /* Board */
+.board-row:after {
+  display: table;
+ }
+
+ /* Game */
+.game {
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+ }
+
+ /* Start Button */
+
+.start {
+	box-shadow:inset 0px 1px 0px 0px #f9eca0;
+	background:linear-gradient(to bottom, #f0c911 5%, #f2ab1e 100%);
+	background-color:#f0c911;
+	border-radius:6px;
+	border:1px solid #e65f44;
+	display:inline-block;
+	cursor:pointer;
+	color:#c92200;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ded17c;
+  height: 40px;
+  width: 200px;
+}
+
+.start:hover {
+	background:linear-gradient(to bottom, #f2ab1e 5%, #f0c911 100%);
+	background-color:#f2ab1e;
+}
+.start:active {
+	position:relative;
+	top:1px;
+}
+
+/* Game */
+.game-scores{
+  padding-top: 30px;
+}
+.game-status {
+  font-size: 25px;
+  font-weight: bold;
+  color: #671959;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.game-info{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-weight: bold;
+}
+
+ ul {
+   list-style-type:none;
+}
