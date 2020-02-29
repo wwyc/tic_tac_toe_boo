@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.060398b0.chunk.css",
+    "main.js": "/static/js/main.313e2aca.chunk.js",
+    "main.js.map": "/static/js/main.313e2aca.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.27512ada.js",
+    "runtime-main.js.map": "/static/js/runtime-main.27512ada.js.map",
+    "static/js/2.306698ee.chunk.js": "/static/js/2.306698ee.chunk.js",
+    "static/js/2.306698ee.chunk.js.map": "/static/js/2.306698ee.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.554f7d2f199f7778e16660545575b44e.js": "/precache-manifest.554f7d2f199f7778e16660545575b44e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.060398b0.chunk.css.map": "/static/css/main.060398b0.chunk.css.map",
+    "static/media/App.css": "/static/media/halloween.fe611d57.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27512ada.js",
+    "static/js/2.306698ee.chunk.js",
+    "static/css/main.060398b0.chunk.css",
+    "static/js/main.313e2aca.chunk.js"
+  ]
+}
