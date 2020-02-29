@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tic_tac_toe_boo/static/css/main.237c624d.chunk.css",
+    "main.js": "/tic_tac_toe_boo/static/js/main.9b413980.chunk.js",
+    "main.js.map": "/tic_tac_toe_boo/static/js/main.9b413980.chunk.js.map",
+    "runtime-main.js": "/tic_tac_toe_boo/static/js/runtime-main.117daf41.js",
+    "runtime-main.js.map": "/tic_tac_toe_boo/static/js/runtime-main.117daf41.js.map",
+    "static/js/2.306698ee.chunk.js": "/tic_tac_toe_boo/static/js/2.306698ee.chunk.js",
+    "static/js/2.306698ee.chunk.js.map": "/tic_tac_toe_boo/static/js/2.306698ee.chunk.js.map",
+    "index.html": "/tic_tac_toe_boo/index.html",
+    "precache-manifest.b8b6c9fb864beb5faa97bb551e4a02e4.js": "/tic_tac_toe_boo/precache-manifest.b8b6c9fb864beb5faa97bb551e4a02e4.js",
+    "service-worker.js": "/tic_tac_toe_boo/service-worker.js",
+    "static/css/main.237c624d.chunk.css.map": "/tic_tac_toe_boo/static/css/main.237c624d.chunk.css.map",
+    "static/media/App.css": "/tic_tac_toe_boo/static/media/halloween.fe611d57.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.117daf41.js",
+    "static/js/2.306698ee.chunk.js",
+    "static/css/main.237c624d.chunk.css",
+    "static/js/main.9b413980.chunk.js"
+  ]
+}
