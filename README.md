@@ -7,3 +7,4 @@ Next player is displayed above the board
 Scores are recorded and displayed. The score for player will increase by one point when the player wins. 'Reset Scores' button will reset scores for both players to zero.
 Move history will display under the board. Players can choose jump to previous moves by clicking on each move button.
 
+![Alt text](https://github.com/wwyc/tic_tac_toe_boo/tree/master/src/img/game.PNG)
